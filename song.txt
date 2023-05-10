@@ -8,3 +8,5 @@ Still I hear you say, you want to end your life
 
 -feature branch changes
 -new steps
+
+for tag
